@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\bin\Debug\net8.0\Numbers1to100.exe
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\bin\Debug\net8.0\Numbers1to100.deps.json
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\bin\Debug\net8.0\Numbers1to100.runtimeconfig.json
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\bin\Debug\net8.0\Numbers1to100.dll
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\bin\Debug\net8.0\Numbers1to100.pdb
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.dll
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\refint\Numbers1to100.dll
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.pdb
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\Numbers1to100.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\Numbers1to100\Numbers1to100\obj\Debug\net8.0\ref\Numbers1to100.dll
